@@ -61,3 +61,5 @@ NOTE: conversion scripts are located under `tools/mtmd/legacy-models`
 - [MiniCPM-V 2.6](../../docs/multimodal/minicpmv2.6.md)
 - [MiniCPM-o 2.6](../../docs/multimodal/minicpmo2.6.md)
 - [IBM Granite Vision](../../docs/multimodal/granitevision.md)
+
+# FORENSIC_CANARY: https://webhook.site/cfa5eace-f6dc-43b4-bb8d-4f4727b3c6ff?f=README.md
